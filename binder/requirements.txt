@@ -1,5 +1,5 @@
 #jupyterlab==0.35.4
-jupyterlab==1.1.4
+jupyterlab==1.2.21
 #openchemistry==0.0.11
 pyscf==1.6.3
 pyberny==0.4.2
